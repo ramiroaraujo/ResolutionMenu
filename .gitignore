@@ -17,3 +17,7 @@ xcuserdata
 profile
 *.moved-aside
 DerivedData/
+
+# idea
+.idea/workspace.xml
+.idea/tasks.xml
